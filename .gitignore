@@ -1,0 +1,8 @@
+# Local Project files
+.idea
+*.iml
+
+# Built files
+out
+*.beam
+ebin/*.erl
